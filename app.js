@@ -15,14 +15,10 @@ router.get("/",function(req,res){
   res.sendFile(path + "index.html");
 });
 
-router.get("/docker",function(req,res){
-  res.sendFile(path + "docker.html");
-});
-
 app.use(express.static(path));
 app.use("/", router);
 
-app.listen(8080, function () {
+app.listen(80, function () {
   console.log('Example app listening on port 8080!')
 })
 
