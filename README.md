@@ -1,3 +1,3 @@
-# Repo Currículo nodejs
+# Currículo nodejs
 
 NodeJS Herivelto Gabriel 
