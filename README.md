@@ -1,3 +1,3 @@
 # Currículo nodejs
 
-NodeJS Herivelto Gabriel 
+NodeJS Herivelto Gabriel V2
