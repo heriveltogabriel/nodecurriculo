@@ -18,7 +18,7 @@ router.get("/",function(req,res){
 app.use(express.static(path));
 app.use("/", router);
 
-app.listen(80, function () {
+app.listen(PORT, function () {
   console.log('Example app listening on port 8080!')
 })
 
